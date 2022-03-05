@@ -1,0 +1,11 @@
+C:\Users\Lopez\source\repos\RAMCO - Workflow Plugins\RAMCO - Workflows.Plugins\bin\Debug\RAMCO - Workflows.Plugins.dll
+C:\Users\Lopez\source\repos\RAMCO - Workflow Plugins\RAMCO - Workflows.Plugins\bin\Debug\RAMCO - Workflows.Plugins.pdb
+C:\Users\Lopez\source\repos\RAMCO - Workflow Plugins\RAMCO - Workflows.Plugins\bin\Debug\microsoft.crm.sdk.proxy.dll
+C:\Users\Lopez\source\repos\RAMCO - Workflow Plugins\RAMCO - Workflows.Plugins\bin\Debug\microsoft.xrm.sdk.dll
+C:\Users\Lopez\source\repos\RAMCO - Workflow Plugins\RAMCO - Workflows.Plugins\bin\Debug\microsoft.xrm.sdk.workflow.dll
+C:\Users\Lopez\source\repos\RAMCO - Workflow Plugins\RAMCO - Workflows.Plugins\bin\Debug\SS.Crm.Linq.dll
+C:\Users\Lopez\source\repos\RAMCO - Workflow Plugins\RAMCO - Workflows.Plugins\obj\Debug\RAMCO.csproj.AssemblyReference.cache
+C:\Users\Lopez\source\repos\RAMCO - Workflow Plugins\RAMCO - Workflows.Plugins\obj\Debug\RAMCO.csproj.CoreCompileInputs.cache
+C:\Users\Lopez\source\repos\RAMCO - Workflow Plugins\RAMCO - Workflows.Plugins\obj\Debug\RAMCO.csproj.CopyComplete
+C:\Users\Lopez\source\repos\RAMCO - Workflow Plugins\RAMCO - Workflows.Plugins\obj\Debug\RAMCO - Workflows.Plugins.dll
+C:\Users\Lopez\source\repos\RAMCO - Workflow Plugins\RAMCO - Workflows.Plugins\obj\Debug\RAMCO - Workflows.Plugins.pdb
