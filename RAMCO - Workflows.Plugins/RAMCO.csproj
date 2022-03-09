@@ -64,6 +64,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseWorkflow.cs" />
+    <Compile Include="CreateDuesProrations.cs" />
+    <Compile Include="GenerateDuesProducts.cs" />
     <Compile Include="CreatePriceListItems.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -29,13 +29,14 @@ namespace RAMCO___Workflows.Plugins
         [Input("Price")]
         public InArgument<Money> Price { get; set; }
 
+
         protected override void Execute(CodeActivityContext context)
         {
 
             // Establish connection to current workflow and organization
             IWorkflowContext execontext = context.GetExtension<IWorkflowContext>();
             IOrganizationServiceFactory serviceFactory = context.GetExtension<IOrganizationServiceFactory>();
-            IOrganizationService service = serviceFactory.CreateOrganizationService(execontext.InitiatingUserId);
+            IOrganizationService service = serviceFactory.CreateOrganizationService(execontext.UserId);
 
             //Get product's GUID
             Guid productId = this.Product.Get(context).Id;
@@ -43,7 +44,7 @@ namespace RAMCO___Workflows.Plugins
 
 
 
-            //Query for defaul UoM
+            //Query for default UoM
             QueryExpression query = new QueryExpression {EntityName= "uom" };
             query.ColumnSet = new ColumnSet("uomid");
 
